@@ -24,5 +24,5 @@ It can be extended for community decisions, DAO governance, or any on-chain poll
 ---
 
 ## 📌 Contract Address
-Deployed on Aptos at:  
+Deployed on Aptos at:  0xfa3b3b659053976190e1155a479e270416e105ca2e35525da2e28c9d8f4c3724
 
